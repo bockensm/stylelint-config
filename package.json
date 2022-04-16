@@ -1,6 +1,6 @@
 {
   "name": "@bockensm/stylelint-config",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "My preferred StyleLint config",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,8 @@
     "url": "https://github.com/bockensm/stylelint-config/issues"
   },
   "homepage": "https://github.com/bockensm/stylelint-config#readme",
-  "peerDependencies": {
-    "stylelint-config-standard": "^21.0.0",
-    "stylelint-order": "^4.1.0"
+  "devDependencies": {
+    "stylelint-config-standard": "^25.0.0",
+    "stylelint-order": "^5.0.0"
   }
 }
